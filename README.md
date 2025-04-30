@@ -61,7 +61,7 @@ Analysis of time series data to identify patterns, seasonality, and trends for f
 - **Programming Languages**: Python
 - **Data Analysis Libraries**: Pandas, NumPy
 - **Visualization Tools**: Matplotlib, Seaborn, Plotly
-- **Machine Learning Libraries**: Scikit-learn, TensorFlow, PyTorch
+- **Machine Learning Libraries**: Scikit-learn
 - **Statistical Analysis**: SciPy, StatsModels
 - **Development Environment**: Jupyter Notebook, VS Code
 
