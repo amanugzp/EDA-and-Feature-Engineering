@@ -76,12 +76,7 @@ Analysis of time series data to identify patterns, seasonality, and trends for f
    cd EDA-and-Feature-Engineering/Project1_Housing_Price_Analysis
    ```
 
-3. Install required dependencies:
-   ```
-   pip install -r requirements.txt
-   ```
-
-4. Open the Jupyter notebooks to explore the analysis:
+3. Open the Jupyter notebooks to explore the analysis:
    ```
    jupyter notebook housing_price_analysis.ipynb
    ```
